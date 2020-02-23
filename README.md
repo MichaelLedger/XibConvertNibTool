@@ -7,9 +7,9 @@
 SDK（静态库 or 动态库）中建议使用 `bundle` 统一存放 `xib` 文件。
 
 ### 使用方法
-1.将 `xib` 文件或包含 `xib` 文件的文件夹 以及 `convert.sh` 放在同一个目录下；
+1. 将 `xib` 文件或包含 `xib` 文件的文件夹 以及 `convert.sh` 放在同一个目录下；
 
-2.终端执行如下命令：
+2. 终端执行如下命令：
 ```
 $ sh /Users/mountainx/MXR/MXRSDK/XibConvertNibTool/convert.sh xib
 ```
